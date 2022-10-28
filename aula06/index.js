@@ -1,0 +1,5 @@
+console.log('joão nasceu em 1984;')
+console.log('Em 2000 joão conheceu maria')
+console.log('jo[')
+console.log('')
+console.log('')
