@@ -20,7 +20,7 @@ function escopo () {
 
         console.log(pessoas)
 
-        resultado.innerHTML += `<P>${nome.value} ${sobrenome.value} ` + `${peso.value}  ${altura.value}<p/>`
+        resultado.innerHTML += `<P>${nome.value} ${sobrenome.value} ${peso.value}  ${altura.value}<p/>`
     }
 
     form.addEventListener('submit', recebeEventoForm);
